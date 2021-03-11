@@ -8,4 +8,5 @@
 3. Double-click on 'Mine.bat' to start mining.  
   
 **(You may need to whitelist the miner in your antivirus as a false positive)**  
+  
 *(To decrease mining intensity, change the value after -li to a greater value)*  
